@@ -1,14 +1,23 @@
 # odin-recipes
 
-## Introduction
-This project is a basic recipe website built as part of **The Odin Project** Foundations curriculum.
- The goal is to demonstrate a solid understanding of HTML structure and the Git workflow before
-  moving on to CSS styling.
+## Description
+This is a basic recipe website built as part of The **Odin Project** Foundations curriculum.
+This project marks my first step into web development, focusing on building a clean
+HTML structure and mastering the Git workflow before moving on to CSS styling.
 
- ### Skills Demonstrated:
-By the completion of this project, I will have demonstrated the ability to:
-* **Construct** a well-structured HTML document using boilerplate and semantic tags.
-* **Organize** a project directory with sub-folders for recipe pages.
-* **Implement** internal links to navigate between multiple HTML files.
-* **Display** content using various text elements, images, and both ordered and unordered lists.
-* **Manage** version control using Git (Stage, Commit, and Push to GitHub). 
+## Live Demo
+[View Live Demo]( https://arefat21.github.io/odin-recipes/)
+
+ ### Skills & Features
+During this project, I successfully implemented:
+* **HTML Structure:**  Built a multi-page site using semantic tags and boilerplate.
+* **Navigation:** Created an index page with internal links to three different recipe pages.
+* **Media & Lists:**  Integrated images and used both ordered (<ol>) and unordered (<ul>)
+ lists for ingredients and instructions.
+* **Version Control:** Managed the entire development process using Git and GitHub.
+
+## What I Learned
+Through this project, I gained a deep understanding of how file paths work (linking between
+ different folders) and the importance of writing clean, readable code.
+
+
